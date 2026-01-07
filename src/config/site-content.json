@@ -41,9 +41,13 @@
 		{
 			"id": "",
 			"url": ""
+		},
+		{
+			"id": "url-1767773147408",
+			"url": "https://images.unsplash.com/photo-1759255570821-1c16fa6dfdb6?q=80&w=702&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 		}
 	],
-	"currentBackgroundImageId": "",
+	"currentBackgroundImageId": "url-1767773147408",
 	"socialButtons": [
 		{
 			"id": "github",
