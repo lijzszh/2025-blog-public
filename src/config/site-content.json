@@ -30,9 +30,13 @@
 		{
 			"id": "a46372ff45bc5524",
 			"url": "/images/art/a46372ff45bc5524.jpg"
+		},
+		{
+			"id": "url-1767764872382",
+			"url": "https://images.unsplash.com/photo-1767450327248-004c05608993?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 		}
 	],
-	"currentArtImageId": "cat",
+	"currentArtImageId": "url-1767764872382",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -46,14 +50,14 @@
 			"type": "github",
 			"value": "https://github.com/lijzszh",
 			"label": "Github",
-			"order": 3
+			"order": 2
 		},
 		{
 			"id": "juejin",
 			"type": "x",
 			"value": "https://juejin.cn/user/2427311675422382",
 			"label": "X",
-			"order": 2
+			"order": 3
 		},
 		{
 			"id": "email",
