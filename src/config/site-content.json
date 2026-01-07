@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"title": "L",
-		"description": "个人博客，记录生活的点滴",
+		"description": "个人博客，记录生活点滴",
 		"username": "lijzszh"
 	},
 	"theme": {
@@ -50,15 +50,15 @@
 		},
 		{
 			"id": "juejin",
-			"type": "juejin",
+			"type": "x",
 			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
+			"label": "X",
 			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "piamyou@gmail.com",
 			"label": "",
 			"order": 1
 		}
