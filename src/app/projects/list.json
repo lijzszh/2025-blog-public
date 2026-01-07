@@ -1,1 +1,13 @@
-[]
+[
+	{
+		"name": "Memos",
+		"year": 2026,
+		"image": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/memos.png",
+		"url": "https://memo.3328.top",
+		"description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. ",
+		"tags": [
+			"docker"
+		],
+		"github": "https://github.com/usememos/memos"
+	}
+]
