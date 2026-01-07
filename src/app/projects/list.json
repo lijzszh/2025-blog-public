@@ -20,5 +20,71 @@
 			"docker"
 		],
 		"github": "https://github.com/ellite/Wallos"
+	},
+	{
+		"name": "Linkwarden",
+		"year": 2026,
+		"image": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/linkwarden.png",
+		"url": "https://link.3328.top",
+		"description": "Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place. ",
+		"tags": [
+			"docker"
+		],
+		"github": "https://github.com/linkwarden/linkwarden"
+	},
+	{
+		"name": "CWA",
+		"year": 2026,
+		"image": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/calibre.png",
+		"url": "https://book.3328.top",
+		"description": "Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up! ",
+		"tags": [
+			"docker"
+		],
+		"github": "https://github.com/crocodilestick/Calibre-Web-Automated"
+	},
+	{
+		"name": "Linkding",
+		"year": 2026,
+		"image": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/linkding.png",
+		"url": "https://linkding.3328.top",
+		"description": "Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker. ",
+		"tags": [
+			"docker"
+		],
+		"github": "https://github.com/sissbruecker/linkding"
+	},
+	{
+		"name": "Omni Tools",
+		"year": 2026,
+		"image": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/omni-tools.png",
+		"url": "https://tool.3328.top",
+		"description": "Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser! ",
+		"tags": [
+			"docker"
+		],
+		"github": "https://github.com/iib0011/omni-tools"
+	},
+	{
+		"name": "Habits",
+		"year": 2026,
+		"image": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/beaver-habit-tracker.png",
+		"url": "https://habit.3328.top",
+		"description": "A self-hosted habit tracking app without \"Goals\" ",
+		"tags": [
+			"docker"
+		],
+		"github": "https://github.com/daya0576/beaverhabits"
+	},
+	{
+		"name": "Homepage",
+		"year": 2026,
+		"image": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/homepage.png",
+		"url": "https://home.3328.top",
+		"description": "A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. ",
+		"tags": [
+			"docker"
+		],
+		"github": "https://github.com/gethomepage/homepage"
 	}
 ]
