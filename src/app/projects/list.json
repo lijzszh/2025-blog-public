@@ -86,5 +86,16 @@
 			"docker"
 		],
 		"github": "https://github.com/gethomepage/homepage"
+	},
+	{
+		"name": "MoonTV",
+		"year": 2026,
+		"image": "https://cdn.jsdelivr.net/gh/MoonTechLab/LunaTV/public/logo.png",
+		"url": "https://moon.3328.top",
+		"description": "一个开箱即用的、跨平台的影视聚合播放器",
+		"tags": [
+			"docker"
+		],
+		"github": "https://github.com/MoonTechLab/LunaTV"
 	}
 ]
