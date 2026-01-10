@@ -1,5 +1,16 @@
 [
   {
+    "slug": "26-02",
+    "title": "每日感言",
+    "tags": [
+      "Quote"
+    ],
+    "date": "2026-01-10T17:46",
+    "summary": "",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "daily-quote",
     "title": "每日感悟",
     "tags": [],
